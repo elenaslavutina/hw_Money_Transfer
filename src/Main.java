@@ -4,6 +4,6 @@ public class Main {
 	int balansenow = 2_000_000_000;
 	int transaction = 5_000_000;
 	int result = balansenow + transaction;
-	System.out.println(result);
+	System.out.println (result);
     }
 }
